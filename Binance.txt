@@ -1,0 +1,10 @@
+Cách xem biều đồ:
+
+Giá:
+Có 4 loại giá:
+	+ Mở cửa
+	+ Cao nhất
+	+ Thấp nhất
+	+ Đóng cửa
+	
+Nến:
